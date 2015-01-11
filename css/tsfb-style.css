@@ -1,0 +1,55 @@
+/**
+ThemeNcode Social Follow Buttons
+Author @Abdul Awal
+**/
+.tsfb-container{
+	clear: both;
+}
+.tsfb-container ul{
+	padding: 0;
+}
+.tsfb-container ul li{
+	list-style: none;
+	margin: 3px 5px;
+}
+
+/* tsfb-default */
+
+.tsfb-default{
+	clear: both;
+}
+.tsfb-default ul{
+	padding: 0;
+}
+.tsfb-default ul li{
+	list-style: none;
+	margin: 3px 5px;
+	float: left;
+}
+
+/* tsfb-circle-shaded */
+.tsfb-circle-shaded ul li{
+	float: left;
+	list-style: none;
+	margin: 5px 10px;
+}
+.tsfb-circle-shaded li a img {
+	border-radius: 20px;
+	border: 2px solid #ddd;
+	box-shadow: 1px 2px 6px #999;
+	-webkit-box-shadow: 1px 2px 6px #999;
+	-moz-box-shadow: 1px 2px 6px #999;
+}
+
+/* tsfb-square-shaded */
+.tsfb-aquare-shaded ul li{
+	float: left;
+	list-style: none;
+	margin: 5px 10px;
+}
+.tsfb-square-shaded ul li img {
+	border: 2px solid #ddd;
+	box-shadow: 1px 2px 7px #555;
+	-webkit-box-shadow: 1px 2px 7px #555;
+	-moz-box-shadow: 1px 2px 7px #555;
+}
