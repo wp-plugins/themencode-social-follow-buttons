@@ -1,9 +1,9 @@
 === ThemeNcode Social Follow Buttons ===
 Contributors: mamb2b, ThemeNcode
 Donate link: http://goo.gl/0bwB6m
-Tags: social follow buttons, follow, Facebook, Twitter, Pinterest, Linkedin, youtube
+Tags: social follow buttons, follow, Facebook, Twitter, Pinterest, Linkedin, youtube, Social Media, Social Links, Followers
 Requires at least: 3.3
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
